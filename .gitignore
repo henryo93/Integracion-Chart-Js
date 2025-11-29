@@ -26,3 +26,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+backend-app/node_modules/
+Charts/charts/backend-app/node_modules/
